@@ -1,5 +1,6 @@
 sudo apt-get update -y
 sudo apt-get install -y \
+  zip \
   git \
   wget \
   curl \
